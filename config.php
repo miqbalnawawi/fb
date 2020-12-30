@@ -2,7 +2,7 @@
 
 $db_host = "localhost";
 $db_user = "iqbal";
-$db_pass = "iqbal";
+$db_pass = "password";
 $db_name = "dbsosmed";
 
 try {    
